@@ -1,0 +1,6 @@
+fstream 
+3 classes 
+
+1. ofstream: create and write to files 
+2. ifstream: read files
+3. fstream: combination of ofstream and ifstream 
